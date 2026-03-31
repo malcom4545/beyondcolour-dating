@@ -1,0 +1,31 @@
+{
+  "expo": {
+    "name": "Beyond Colour Dating",
+    "slug": "beyond-colour-dating",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#9E3E27"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/icon.png",
+        "backgroundColor": "#9E3E27"
+      },
+      "package": "com.beyondcolour.dating"
+    },
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.beyondcolour.dating"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "444cda98-db85-462d-8ce8-3872e0bd2bf0"
+      }
+    }
+  }
+}
