@@ -13,7 +13,7 @@
     },
     "android": {
       "adaptiveIcon": {
-        "foregroundImage": "./assets/icon.png",
+        "foregroundImage": "./icon.png"
         "backgroundColor": "#9E3E27"
       },
       "package": "com.beyondcolour.dating"
